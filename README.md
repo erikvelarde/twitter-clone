@@ -1,6 +1,9 @@
 # Twitter Clone Web Client
 
-## Todo:
+
+## Reactjs Todo:
+- [ ] install react router
+- [ ] install react redux toolkit
 - [ ] Authentication form: (login/signup)
 
 ## In process:
